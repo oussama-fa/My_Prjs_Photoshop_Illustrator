@@ -2,4 +2,6 @@
 This is one of my works in Adobe Photoshop and Adobe Illustrator
 
 ![First Image](photoshop.png)
-![Second Image](photo2.jpg)
+![Second Image](illustrator.png)
+<img src="photoshop.png" alt="Description" width="150"/>
+<img src="illustrator.png" alt="Description" width="150"/>
