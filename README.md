@@ -47,7 +47,7 @@ These programs have been essential in my workflow, allowing me to produce high-q
 
 <p align="center">
   <img src="photoshop.png" alt="Photoshop Logo" width="150"/>
-  <img src="illustrator.png" alt="Illustrator Logo" width="137"/>
+  <img src="illustrator.png" alt="Illustrator Logo" width="135"/>
 </p>
 
 ---
