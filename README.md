@@ -29,12 +29,20 @@ Below are some of the images showcasing my design work. Click on the thumbnails 
 
 ---
 
-## Program Used
+## Programs Used
 
-These designs were created using the following Adobe software:
+These designs were created using industry-standard software tools for graphic design and digital artwork. Each program serves a specific purpose to bring my creative visions to life.
+
+- **Adobe Photoshop**  
+  A powerful tool for photo manipulation, digital painting, and design. Used extensively for creating high-quality edits, graphics, and visual effects.
+
+- **Adobe Illustrator**  
+  The go-to vector graphics software for creating logos, illustrations, and scalable artwork. Perfect for clean and crisp lines in complex design projects.
+
+These programs have been essential in my workflow, allowing me to produce high-quality digital content for various design needs. From photo editing and composition in Photoshop to vector-based work and illustrations in Illustrator, I leverage these tools to create standout designs.
 
 <img src="photoshop.png" alt="Photoshop Logo" width="150"/>
-<img src="illustrator.png" alt="Illustrator Logo" width="140"/>
+<img src="illustrator.png" alt="Illustrator Logo" width="138"/>
 
 ---
 
