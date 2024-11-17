@@ -41,8 +41,14 @@ These designs were created using industry-standard software tools for graphic de
 
 These programs have been essential in my workflow, allowing me to produce high-quality digital content for various design needs. From photo editing and composition in Photoshop to vector-based work and illustrations in Illustrator, I leverage these tools to create standout designs.
 
-<img src="photoshop.png" alt="Photoshop Logo" width="150"/>
-<img src="illustrator.png" alt="Illustrator Logo" width="138"/>
+---
+
+### Tools in Action
+
+<p align="center">
+  <img src="photoshop.png" alt="Photoshop Logo" width="150"/>
+  <img src="illustrator.png" alt="Illustrator Logo" width="138"/>
+</p>
 
 ---
 
